@@ -109,6 +109,15 @@
 		
 	</section>
 
+	<article>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
+	</article>
+
 	<section>
 		<h1>LiveReload Issues:</h1>
 		<h2>Installing LiveReload:</h2>
@@ -167,14 +176,7 @@
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
 	</article>
 
-	<article>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam blanditiis nemo totam iste cum fugit unde sit ad pariatur facilis repellendus maiores modi est saepe eaque, ab, suscipit fugiat adipisci?</p>
-	</article>
+
 
 
 	
